@@ -1,0 +1,34 @@
+_repo: The-Diwan-of-Abu-l-Ala_13086
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abu al-Ala al-Maarri
+    alias: أبو العلاء المعري،
+    birthdate: 973
+    deathdate: 1057
+    gutenberg_agent_id: '26732'
+    url: http://www.gutenberg.org/2009/agents/26732
+  editor:
+    agent_name: Baerlein, Henry
+    alias: Baerlein, Henry Philip Bernard
+    birthdate: 1875
+    deathdate: 1960
+    gutenberg_agent_id: '4824'
+    url: http://www.gutenberg.org/2009/agents/4824
+description: ''
+gutenberg_issued: '2004-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13086'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PJ'
+- !lcsh 'Arabic poetry -- Translations into English'
+title: The Diwan of Abu'l-Ala
+url: http://www.gutenberg.org/ebooks/13086
